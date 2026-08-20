@@ -15,7 +15,7 @@
         border: solid rgba(0, 255, 255) 3px;
         outline: solid black 2px;
     }
-    & ::visited {
+    .nav-link::visited {
        color: red;
         background-color: cyan;
 }
